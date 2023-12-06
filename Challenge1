@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Eccomi mi presento!</title>
+</head>
+<body style=" background-color:lightpink">
+    <h1 style=" color:deeppink">Eccomi qua mi presento!</h1>
+    <img src="io.jpg "
+         style="width:300px"
+         alt="foto di una ragazza" />
+    <div style="background-color:mediumpurple">
+        <h2>Presentazione</h2>
+        <p>
+            Ciao a tutti mi chiamo <span style="color:blueviolet">LUDOVICA DE FAZIO</span>, Sono calabrese
+            per la precisione di Soveria Mannelli(un piccolo paesino della provincia di Catanzaro), ho 28 anni
+            e recentemente ho scoperto la passione per la programmazione web,quindi ho deciso di iscrivermi in questo corso.Spero ci troveremo bene insieme!
+        </p>
+        <h4>Hobbies e interessi</h4>
+        <ul>
+            <li>La cucina, in particolar modo fare dolci</li>
+            <li>Leggere,divoro libri,sopratutto fantasy e romance,un modo per evadere dalla realtà</li>
+            <li>Tutto ciò che riguarda il Giappone, dalla cultura ai prodotti multimediali che produce questo straordinario paese.</li>
+            <li>Tutto ciò che concerne la tecnologia</li>
+            <li>E ultimo ma non per importanza la programmazione WEB</li>
+        </ul>
+    </div>
+    <table style="border: 3px solid mediumpurple ">
+        <tr><td>Esperienze Scolastiche</td><td>Esperienze Lavorative</td></tr>
+        <tr><td>Diplomata al Liceo Socio-Psico-pedagogico</td><td>Repartista presso Contè Supermercati</td></tr>
+        <tr><td>Certificazione ECDL e Dattilografia</td><td>Segretaria presso Terina SCARL</td></tr>
+        <tr><td>Attestato di tecnico dello sviluppo di pagine e siti web</td><td>///////</td></tr>
+    </table>
+    <div>
+        <h4>I miei contatti:</h4>
+        <a href="mailto:defazioludovica@gmail.com">E-mail</a>
+        <a href="tel:3451695849">Numero di telefono</a>
+        <a href="https://www.facebook.com/ludovica.defazio ">Facebook</a>
+        <a href="https://instagram.com/ludoredefa?igshid=MmVlMjlkMTBhMg==">Instagram</a>
+    </div>
+
+</body>
+</html>
